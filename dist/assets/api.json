@@ -1,0 +1,12 @@
+[
+    {
+      "id":1,
+      "firstname":"Jonh",
+      "lastname":"Doe",
+      "birthdate":"1997-05-17",
+      "gender":"male",
+      "available":true,
+      "salary":200,
+      "tax":0.25
+    }
+  ]
