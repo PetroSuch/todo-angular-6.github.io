@@ -1,6 +1,6 @@
 # Todo list users Angular 6
 
-Demo this project [Demo](https://github.com/angular/angular-cli)
+Demo this project [Demo](https://petrosutch.github.io/todo-angular-6.github.io/)
 
 ## Development server
 
